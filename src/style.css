@@ -1,0 +1,10 @@
+body {
+  margin: 30px 100px;
+  max-width: 200%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+h1 {
+  color: rgb(235, 72, 72);
+  text-shadow: rgb(201, 122, 42) 1px 0 10px;
+}
